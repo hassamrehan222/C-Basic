@@ -1,0 +1,110 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Runtime.CompilerServices;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace hi
+{
+
+   
+    internal class Program
+    {
+
+        //static void hm(string name)
+        //{
+        //    Console.Write("my name is hassam and i am 15 yeaRS old and study in bahria university my cousins are" + name);
+        //}
+
+        //static int sum(int a, int b, int c)
+        //{
+        //    int sum = a + b + c;
+        //    return sum;
+
+        //}
+        static void Main(string[] args)
+        {
+            //int age = 22;
+            //if (age > 19)
+            //{
+            //    Console.WriteLine("you are eligible");
+
+            //}
+            //else
+            //{ Console.WriteLine("you r not eligible"); }
+
+
+
+            //int a = 2;
+            //int b = 3;
+            //Console.WriteLine(a + b);
+
+
+
+            //int age = 24;
+            //switch (age)
+            //{
+            //    case 14:
+            //        Console.WriteLine("you are not eligible");
+            //        break;
+
+            //    case 18:
+            //        Console.WriteLine("PLEASE FOR 1 YEAR");
+            //        break;
+
+            //    case 24:
+            //        Console.WriteLine("yes you are elibible now");
+            //        break;
+
+
+            //    default:
+            //        Console.WriteLine("you r good enjoy bro");
+            //        break;
+
+
+
+            //}
+
+            //while loop
+
+            //int i = 0;
+            //while (i < 5)
+            //{
+            //    Console.WriteLine(i);
+            //    i++;
+
+            //}
+
+            //do while loop
+
+            //int i = 0;
+            //do
+            //{
+            //    Console.WriteLine(1 + i);
+            //    i++;
+            //} while (i < 5);
+
+
+
+            //for loop
+
+            //for (int i = 0; i < 5; i++)
+            //{
+            //    Console.WriteLine(i + 1);
+            //}
+
+
+            //hm("minhaj");
+            //hm("khizer");
+
+            //Console.WriteLine(sum(6, 3, 1));
+            Console.ReadLine();
+        
+
+
+
+
+        }
+    }
+}
